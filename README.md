@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<a href="https://portfolio-4rh683w31-jaikumars-projects-d07d839b.vercel.app/">
+<a href="https://portfolio-one-self-jjhex9kgef.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-VISIT-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Portfolio" />
 </a>
 &nbsp;
@@ -213,7 +213,7 @@ service providers, end to end.
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email" />
 </a>
 &nbsp;
-<a href="https://portfolio-4rh683w31-jaikumars-projects-d07d839b.vercel.app/">
+<a href="https://portfolio-one-self-jjhex9kgef.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF" alt="Portfolio" />
 </a>
 &nbsp;
