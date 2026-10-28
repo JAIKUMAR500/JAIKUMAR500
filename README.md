@@ -2,46 +2,44 @@
                     JAIKUMAR K · GITHUB PROFILE
      ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ╭──────────────────  ANIMATED HEADER BANNER  ──────────────────╮ -->
+<!-- ╭────────────────  ANIMATED HEADER (twinkling)  ────────────────╮ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00F7FF,100:0D1117&height=230&section=header&text=JAIKUMAR%20K&fontSize=68&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20MERN%20Stack&descAlignY=56&descSize=18&animation=fadeIn" alt="Jaikumar K banner" />
-
-<!-- ╭──────────────────  TYPING ANIMATION  ──────────────────╮ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:00F7FF,100:0D1117&height=250&section=header&text=JAIKUMAR%20K&fontSize=72&fontColor=FFFFFF&fontAlignY=34&desc=Backend%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Coimbatore&descAlignY=54&descSize=18&animation=twinkling" alt="Jaikumar K banner" />
 
 <div align="center">
 
-<a href="https://github.com/JAIKUMAR500">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=720&height=45&lines=Backend+Developer+from+Coimbatore+%F0%9F%87%AE%F0%9F%87%B3;Node.js+%7C+Express.js+%7C+MongoDB+%7C+React;I+design+REST+APIs+that+don't+break+%F0%9F%9A%80;Turning+coffee+into+clean+backend+code+%E2%98%95" alt="Typing animation" />
+<!-- ── Typing animation ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=760&height=48&lines=Backend+Developer+from+Coimbatore+%F0%9F%87%AE%F0%9F%87%B3;Node.js+%7C+Express.js+%7C+MongoDB+%7C+React;I+design+REST+APIs+that+don't+break+%F0%9F%9A%80;Clean+code+%3E+clever+code+%E2%9C%A8;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing animation" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=JAIKUMAR500&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/JAIKUMAR500?label=FOLLOWERS&style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github" alt="Followers" />
+<img src="https://img.shields.io/badge/OPEN_TO-Collaboration-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Open to collaboration" />
+
+<br/><br/>
+
+<a href="https://portfolio-4rh683w31-jaikumars-projects-d07d839b.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-VISIT-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://fixbuddy-ivory.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_FIXBUDDY-LIVE_DEMO-00F7FF?style=for-the-badge&labelColor=0D1117" alt="FixBuddy live demo" />
 </a>
 
 <br/>
 
-<!-- ── Live badges ── -->
-<img src="https://komarev.com/ghpvc/?username=JAIKUMAR500&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/JAIKUMAR500?label=FOLLOWERS&style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github" alt="Followers" />
-<img src="https://img.shields.io/badge/FOCUS-Backend_Engineering-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Focus" />
-
-<br/><br/>
-
-<a href="https://fixbuddy-ivory.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_EXPLORE_FIXBUDDY-LIVE_DEMO-00F7FF?style=for-the-badge&labelColor=0D1117" alt="FixBuddy live demo" />
-</a>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" />
 
 </div>
 
-<!-- ── Animated gradient divider ── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7FF,100:0D1117&height=4&section=header" alt="divider" />
+<!-- ╭──────────────────────  ABOUT ME  ──────────────────────╮ -->
 
-<!-- ╭──────────────────  ABOUT ME  ──────────────────╮ -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="32" alt="" />
-  &nbsp;About Me
-</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:00F7FF,100:0D1117&height=48&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20%20About%20Me&fontSize=24&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" alt="About Me" />
 
 <table border="0" width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="57%" valign="top">
 
 ```javascript
 const jaikumar = {
@@ -55,7 +53,7 @@ const jaikumar = {
   askMeAbout: [
     "REST API design",
     "MongoDB schema modelling",
-    "Auth & role-based access"
+    "Auth & role-based access control"
   ]
 };
 ```
@@ -69,26 +67,23 @@ const jaikumar = {
 - ⚡ &nbsp;Fun fact: my best debugging happens away from the keyboard
 
 </td>
-<td width="42%" align="center" valign="center">
+<td width="43%" align="center" valign="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt="Coding animation" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Coding animation" />
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7FF,100:0D1117&height=4&section=header" alt="divider" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" />
 
-<!-- ╭──────────────────  TECH STACK  ──────────────────╮ -->
+<!-- ╭──────────────────────  TECH STACK  ──────────────────────╮ -->
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="34" alt="" />
-  &nbsp;Tech Arsenal
-</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:00F7FF,100:0D1117&height=48&section=header&text=%E2%9A%99%EF%B8%8F%20%20Tech%20Arsenal&fontSize=24&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" alt="Tech Arsenal" />
 
 <div align="center">
 
-<h4>⚙️ &nbsp;Core Stack</h4>
+<h4>🧩 &nbsp;Core Stack</h4>
 
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react&theme=dark&perline=5" alt="JavaScript, Node.js, Express, MongoDB, React" />
 
@@ -102,21 +97,19 @@ const jaikumar = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=00F7FF" alt="JWT" />
+<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=00F7FF" alt="JWT" />
 <img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=00F7FF" alt="REST API" />
 <img src="https://img.shields.io/badge/Mongoose-0D1117?style=flat-square&logo=mongoose&logoColor=00F7FF" alt="Mongoose" />
 <img src="https://img.shields.io/badge/Axios-0D1117?style=flat-square&logo=axios&logoColor=00F7FF" alt="Axios" />
+<img src="https://img.shields.io/badge/Nodemon-0D1117?style=flat-square&logo=nodemon&logoColor=00F7FF" alt="Nodemon" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7FF,100:0D1117&height=4&section=header" alt="divider" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" />
 
-<!-- ╭──────────────────  FEATURED PROJECT  ──────────────────╮ -->
+<!-- ╭────────────────────  FEATURED PROJECT  ────────────────────╮ -->
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="" />
-  &nbsp;Featured Project
-</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:00F7FF,100:0D1117&height=48&section=header&text=%F0%9F%9A%80%20%20Featured%20Project&fontSize=24&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" alt="Featured Project" />
 
 <div align="center">
 
@@ -163,14 +156,11 @@ service providers, end to end.
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7FF,100:0D1117&height=4&section=header" alt="divider" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" />
 
-<!-- ╭──────────────────  GITHUB STATS  ──────────────────╮ -->
+<!-- ╭──────────────────────  ANALYTICS  ──────────────────────╮ -->
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="32" alt="" />
-  &nbsp;GitHub Analytics
-</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:00F7FF,100:0D1117&height=48&section=header&text=%F0%9F%93%8A%20%20GitHub%20Analytics&fontSize=24&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" alt="GitHub Analytics" />
 
 <div align="center">
 
@@ -189,15 +179,15 @@ service providers, end to end.
 
 <img src="https://github-profile-trophy.vercel.app/?username=JAIKUMAR500&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
-</div>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7FF,100:0D1117&height=4&section=header" alt="divider" />
+<h4>🧊 &nbsp;3D Contribution Calendar</h4>
 
-<!-- ╭──────────────────  CONTRIBUTION SNAKE  ──────────────────╮ -->
+<img width="100%" src="https://raw.githubusercontent.com/JAIKUMAR500/JAIKUMAR500/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
 
-<h2 align="center">🐍 &nbsp;Watch My Contributions Get Eaten</h2>
+<br/>
 
-<div align="center">
+<h4>🐍 &nbsp;Watch My Contributions Get Eaten</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/JAIKUMAR500/JAIKUMAR500/output/snake-dark.svg" />
@@ -207,28 +197,28 @@ service providers, end to end.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7FF,100:0D1117&height=4&section=header" alt="divider" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="" />
 
-<!-- ╭──────────────────  CONNECT  ──────────────────╮ -->
+<!-- ╭──────────────────────  CONNECT  ──────────────────────╮ -->
 
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="28" alt="" />
-  &nbsp;Let's Connect
-</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:00F7FF,100:0D1117&height=48&section=header&text=%F0%9F%A4%9D%20%20Let's%20Connect&fontSize=24&fontColor=FFFFFF&fontAlignY=58&animation=fadeIn" alt="Let's Connect" />
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/jaikumar-k-/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR-EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email" />
+&nbsp;
+<a href="mailto:jaikumar500500@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Email" />
 </a>
-<a href="https://twitter.com/YOUR-HANDLE">
-  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00F7FF" alt="X" />
-</a>
-<a href="https://fixbuddy-ivory.vercel.app/">
+&nbsp;
+<a href="https://portfolio-4rh683w31-jaikumars-projects-d07d839b.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://github.com/JAIKUMAR500">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub" />
 </a>
 
 <br/><br/>
@@ -237,14 +227,16 @@ service providers, end to end.
 
 </div>
 
-<!-- ╭──────────────────  FOOTER  ──────────────────╮ -->
+<!-- ╭──────────────────────  FOOTER  ──────────────────────╮ -->
 
 <div align="center">
 
-### 💡 &nbsp;Learn. Build. Improve. Repeat.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=560&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Learn.+Build.+Improve.+Repeat.;Let's+build+something+great+together." alt="Footer typing animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+great+together." alt="Footer typing animation" />
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="420" alt="" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00F7FF,100:0D1117&height=150&section=footer" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:00F7FF,100:0D1117&height=160&section=footer&text=%E2%AD%90%20Star%20some%20repos%20on%20your%20way%20out&fontSize=16&fontColor=FFFFFF&fontAlignY=78&animation=twinkling" alt="Footer wave" />
